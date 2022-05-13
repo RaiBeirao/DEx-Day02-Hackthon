@@ -1,2 +1,4 @@
 # DEx-Day02-Hackthon
-Hackthon realizado no Day 02 do curso DEx da DNC
+Atividades realizdas no Day 02 do curso DEx da DNC.
+01 - Lista de Exercícios
+02 - Hackathon
